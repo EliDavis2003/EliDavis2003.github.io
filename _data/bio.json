@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Elijah Davis",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/EliDavis.png",
+    "email": "edavis7@hawaii.edu",
+    "phone": "254-345-2552",
+    "website": "https://EliDavis2003.github.io",
+    "summary": "I am a student majoring in Computer Science at the University of Hawaii at Manoa I expect to graduate in 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "EliDavis2003", "url": "http://github.com/EliDavis2003" },
