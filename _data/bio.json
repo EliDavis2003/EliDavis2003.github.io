@@ -15,73 +15,64 @@
   },
 "interests": [
     { "name": "Software Engineering" },
-    { "name": "Educational Technology" },
-    { "name": "Sustainability" },
-    { "name": "Climate Change" }
+    { "name": "Video Games" },
+    { "name": "Programming" },
+    { "name": "Excersising" },
+    { "name": "Food" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "Javascript", "React", "Flutter", "Dart" ]
+      "name": "Programming, Gaming",
+      "keywords": [ "Python", "Microsoft" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
+      "name": "PC OS and PC Hardware",
+      "keywords": [ "MacOS", "WindowsOS" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Massachusetts, Amherst, MA",
-      "area": "Computer Science",
-      "studyType": "Ph.D.",
-      "startDate": "1983",
-      "endDate": "1990",
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2021-08-213",
+      "endDate": "2024-06-31",
       "courses": [
       ]
     },
     {
-      "institution": "University of Michigan, Ann Arbor, MI",
+      "institution": "South Puget Sound Community College",
       "area": "Computer Science",
-      "studyType": "B.S.",
-      "startDate": "1976",
-      "endDate": "1981",
+      "studyType": "A.A.",
+      "startDate": "2019",
+      "endDate": "2021",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "University of Hawaii",
-      "position": "Professor, Information and Computer Sciences",
-      "website": "https://www.ics.hawaii.edu",
-      "startDate": "1990",
-      "endDate": "Present",
-      "summary": "Conduct teaching and research in software engineering",
+      "company": "Best Buy",
+      "position": "Geek Squad Cerfied Repair Agent",
+      "website": "",
+      "startDate": "2022-06-14",
+      "endDate": "8/22/23",
+      "summary": "I am a certified geeksquad agent for Best Buy in Honolulu",
       "highlights": [
-        "Director, Collaborative Software Development Laboratory, 1990-present",
-        "Professor, 2001-present",
-        "Associate Chair, 2010-2016",
-        "Associate Professor, 1995-2010",
-        "Assistant Professor, 1990-1995"
+        "Provides technical support and services related to various technology products and devices",
+        "Assist customers with technology-related issues, including troubleshooting, repairs, installations, and consultations"
+        
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "School of Engineering, Blekinge Institute of Technology",
-      "website": "https://www.bth.se/eng/",
-      "position": "Visiting Professor",
-      "startDate": "2006",
-      "endDate": "",
-      "summary": "Research in software engineering"
-    },
-    {
-      "organization": "Distributed Systems Technology Centre, University of Queensland",
-      "website": "https://www.uq.edu.au/",
-      "position": "Senior Research Fellow",
-      "startDate": "1997",
-      "endDate": "",
-      "summary": "Research in computer supported cooperative work"
+      "organization": "Timberline Highschool",
+      "website": "",
+      "position": "Coach Assistant",
+      "startDate": "2019",
+      "endDate": "2021",
+      "summary": "supports and assists a coach in various activities and responsibilities related to coaching."
     }
   ],
   "references": [
