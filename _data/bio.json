@@ -13,79 +13,80 @@
       { "network": "linkedin", "username": "EliDavis2003", "url": "http://linkedin.com/in/EliDavis2003" }
     ]
   },
-  "interests": [
-    { "name": "Video Games" },
-    { "name": "Sports" },
-    { "name": "Programming" },
-    { "name": "Food" },
-    { "name": "Excersising" }
+"interests": [
+    { "name": "Software Engineering" },
+    { "name": "Educational Technology" },
+    { "name": "Sustainability" },
+    { "name": "Climate Change" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Javascript", "React", "Flutter", "Dart" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2024)",
+      "institution": "University of Massachusetts, Amherst, MA",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
+      "startDate": "1983",
+      "endDate": "1990",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Michigan, Ann Arbor, MI",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2021-08-21",
-      "endDate": "2024-06-31",
+      "startDate": "1976",
+      "endDate": "1981",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "Geek Squad Cerfied Repair Agent",
-      "position": "Consultation Agent",
-      "website": "",
-      "startDate": "2022-06-14",
-      "endDate": "2024-06-31",
-      "summary": "I am a certified geeksquad agent for Best Buy in Honolulu",
+      "company": "University of Hawaii",
+      "position": "Professor, Information and Computer Sciences",
+      "website": "https://www.ics.hawaii.edu",
+      "startDate": "1990",
+      "endDate": "Present",
+      "summary": "Conduct teaching and research in software engineering",
       "highlights": [
-        "Provides technical support and services related to various technology products and devices.",
-        "Assist customers with technology-related issues, including troubleshooting, repairs, installations, and consultations."
-      ]
-    },
-    {
-      "company": "Chic-Fil-A",
-      "position": "Front House",
-      "website": "",
-      "startDate": "2019-09-12",
-      "endDate": "2020-06-15",
-      "summary": "Responsible for welcoming customers, taking orders, processing payments, and ensuring that customers have a pleasant and satisfying dining experience.",
-      "highlights": [
-        "work closely with kitchen staff and managers to ensure that orders are prepared correctly and efficiently.",
-        "upsell menu items or promote special offers to customers, contributing to increased sales and revenue for the restaurant."
+        "Director, Collaborative Software Development Laboratory, 1990-present",
+        "Professor, 2001-present",
+        "Associate Chair, 2010-2016",
+        "Associate Professor, 1995-2010",
+        "Assistant Professor, 1990-1995"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      "organization": "School of Engineering, Blekinge Institute of Technology",
+      "website": "https://www.bth.se/eng/",
+      "position": "Visiting Professor",
+      "startDate": "2006",
+      "endDate": "",
+      "summary": "Research in software engineering"
     },
-  
+    {
+      "organization": "Distributed Systems Technology Centre, University of Queensland",
+      "website": "https://www.uq.edu.au/",
+      "position": "Senior Research Fellow",
+      "startDate": "1997",
+      "endDate": "",
+      "summary": "Research in computer supported cooperative work"
+    }
   ],
-  
   "references": [
     {
-      "name": ""
+      "name": "Available upon request"
     }
   ]
 }
