@@ -50,20 +50,20 @@
       "endDate": "2024-06-31",
       "summary": "I am a certified geeksquad agent for Best Buy in Honolulu",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Provides technical support and services related to various technology products and devices.",
+        "Assist customers with technology-related issues, including troubleshooting, repairs, installations, and consultations."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Chic-Fil-A",
+      "position": "Front House",
+      "website": "",
+      "startDate": "2019-09-12",
+      "endDate": "2020-06-15",
+      "summary": "Responsible for welcoming customers, taking orders, processing payments, and ensuring that customers have a pleasant and satisfying dining experience.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "work closely with kitchen staff and managers to ensure that orders are prepared correctly and efficiently.",
+        "upsell menu items or promote special offers to customers, contributing to increased sales and revenue for the restaurant."
       ]
     }
   ],
@@ -83,34 +83,34 @@
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": ""
     }
   ]
 }
