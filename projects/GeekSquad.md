@@ -10,7 +10,7 @@ labels:
   - Consultation 
   - Hardware and Software
 
-<img width="200px" class="rounded float-start pe-4" src="../img/geeksquad_logo.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/geeksquad_logo.png>
 
 summary: "My job is to provide a range of technology-related services and solutions to consumers and businesses. "
 ---
