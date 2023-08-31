@@ -15,4 +15,4 @@ As software engineers, our journey is one of constant learning and growth, and a
 
 Here is a link to [Smart Question Example](https://stackoverflow.com/questions/25078285/replacing-a-32-bit-loop-counter-with-64-bit-introduces-crazy-performance-deviati).
 
-Here is a link to [NOT-SO-Smart Question Example] (https://stackoverflow.com/questions/59851613/why-does-my-code-does-not-work-even-though-it-is-correct)
+Here is a link to [NOT-SO-Smart Question Example](https://stackoverflow.com/questions/59851613/why-does-my-code-does-not-work-even-though-it-is-correct)
