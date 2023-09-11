@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/geeksquad_logo.png
+image: img/geeksquad_logo.jpg
 title: "Geek Squad"
 date: 2022
 published: True
