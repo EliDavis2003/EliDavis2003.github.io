@@ -10,6 +10,7 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/coding-standards.png">
+
 ## Navigating the World of Coding Standards and ESLint
 
 When using ESLint, I see how JavaScript helps enforcing coding standards and identifying potential issues in your code. While it's a powerful and valuable tool, I do find it challenging to use, particularly when they are new to it or encounter certain complexities.
