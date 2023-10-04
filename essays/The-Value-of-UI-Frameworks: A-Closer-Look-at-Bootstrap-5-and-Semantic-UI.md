@@ -9,7 +9,7 @@ labels:
   - UI Framework
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/Ui-Frameworks.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/UI-Frameworks.jpg">
 
 *The Value of UI Frameworks: A Closer Look at Bootstrap 5 and Semantic UI.*
 
