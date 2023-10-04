@@ -4,7 +4,7 @@ type: essay
 title: "The Value of UI Frameworks: A Closer Look at Bootstrap 5 and Semantic UI"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-04
-published: false
+published: true
 labels:
   - UI Framework
 ---
