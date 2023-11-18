@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "The Value of UI Frameworks: A Closer Look at Bootstrap 5 and Semantic UI"
+title: "The Transformative Role of AI.md"
 # All dates must be YYYY-MM-DD format!
-date: 2023-10-04
+date: 2023-11/17
 published: true
 labels:
-  - UI Framework
+  - AI
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/AI.jpg">
