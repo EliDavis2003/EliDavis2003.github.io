@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Transformative Role of AI.md"
+title: "The Transformative Role of AI"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11/17
 published: true
