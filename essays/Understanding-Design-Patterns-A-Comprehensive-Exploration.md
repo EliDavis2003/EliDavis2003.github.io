@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Understanding Design Patterns: A Comprehensive Exploration.md"
+title: "Understanding Design Patterns: A Comprehensive Exploration"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-29
 published: true
