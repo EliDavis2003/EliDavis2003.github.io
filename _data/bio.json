@@ -1,0 +1,83 @@
+{
+  "basics": {
+    "name": "Elijah Davis",
+    "label": "Student",
+    "picture": "https://github.com/EliDavis2003.png",
+    "email": "edavis7@hawaii.edu",
+    "phone": "254-345-2552",
+    "website": "https://EliDavis2003.github.io",
+    "summary": "I am a student majoring in Computer Science at the University of Hawaii at Manoa I expect to graduate in 2024 with a Bachelors in Science. ",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "EliDavis2003", "url": "http://github.com/EliDavis2003" },
+      { "network": "linkedin", "username": "EliDavis2003", "url": "http://linkedin.com/in/EliDavis2003" }
+    ]
+  },
+"interests": [
+    { "name": "Software Engineering" },
+    { "name": "Video Games" },
+    { "name": "Programming" },
+    { "name": "Excersising" },
+    { "name": "Food" }
+  ],
+  "skills": [
+    {
+      "name": "Programming, Gaming",
+      "keywords": [ "Python", "Microsoft" ]
+    },
+    {
+      "name": "PC OS and PC Hardware",
+      "keywords": [ "MacOS", "WindowsOS" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2021-08-213",
+      "endDate": "2024-06-31",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "South Puget Sound Community College",
+      "area": "Computer Science",
+      "studyType": "A.A.",
+      "startDate": "2019",
+      "endDate": "2021",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Best Buy",
+      "position": "Geek Squad Cerfied Repair Agent",
+      "website": "",
+      "startDate": "2022-06-14",
+      "endDate": "2022-8-23",
+      "summary": "I am a certified geeksquad agent for Best Buy in Honolulu",
+      "highlights": [
+        "Provides technical support and services related to various technology products and devices",
+        "Assist customers with technology-related issues, including troubleshooting, repairs, installations, and consultations"
+        
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Timberline Highschool",
+      "website": "",
+      "position": "Coach Assistant",
+      "startDate": "2019",
+      "endDate": "2021",
+      "summary": "supports and assists a coach in various activities and responsibilities related to coaching."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
